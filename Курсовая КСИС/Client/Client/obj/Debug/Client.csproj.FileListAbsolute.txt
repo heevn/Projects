@@ -1,0 +1,12 @@
+D:\Курсовая\Курсовая КСИС\Client\Client\bin\Debug\Client.exe.config
+D:\Курсовая\Курсовая КСИС\Client\Client\bin\Debug\Client.exe
+D:\Курсовая\Курсовая КСИС\Client\Client\bin\Debug\Client.pdb
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.Form1.resources
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.exe
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.pdb
+D:\Курсовая\Курсовая КСИС\Client\Client\obj\Debug\Client.Form2.resources
