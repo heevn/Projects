@@ -1,0 +1,8 @@
+D:\ProjectRPVS\LoadingScreen\bin\Debug\LoadingScreen.dll
+D:\ProjectRPVS\LoadingScreen\bin\Debug\LoadingScreen.pdb
+D:\ProjectRPVS\LoadingScreen\obj\Debug\LoadingScreen.csproj.AssemblyReference.cache
+D:\ProjectRPVS\LoadingScreen\obj\Debug\LoadingScreen.csproj.GenerateResource.cache
+D:\ProjectRPVS\LoadingScreen\obj\Debug\LoadingScreen.csproj.CoreCompileInputs.cache
+D:\ProjectRPVS\LoadingScreen\obj\Debug\LoadingScreen.dll
+D:\ProjectRPVS\LoadingScreen\obj\Debug\LoadingScreen.pdb
+D:\ProjectRPVS\LoadingScreen\obj\Debug\LoadingScreen.LoadScreen.resources
